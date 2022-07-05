@@ -104,7 +104,7 @@
     padding-right: 3rem;
     margin: 0rem 0;
     line-height: 1.5;
-    font-size: 2rem;
+    font-size: 1rem;
     max-width: 60rem;
 }
 
@@ -114,6 +114,7 @@
     text-shadow: 2px 2px black;
     background-image: url(/cloud_lightning.webp);
     padding: 3rem;
+    margin: 3rem;
     font-size: 1.1rem;
     font-weight: 900;
     font-family: Menlo, Monaco, Lucida Console, Liberation Mono, DejaVu Sans Mono, Bitstream Vera Sans Mono, Courier New, monospace;
@@ -123,6 +124,7 @@
     color: white;
     text-shadow: 1.5px 1.5px orange;
     opacity: 0.9;
+    cursor: help;
 }
 
 .span {
