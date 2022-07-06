@@ -244,6 +244,7 @@
 }
 
 .flex {
+    margin-top: -150px;
     padding-top: 2rem;
     padding-bottom: 2rem;
     display: flex;
