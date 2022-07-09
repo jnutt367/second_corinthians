@@ -163,13 +163,14 @@
 
 .h2 {
     background-image: url(/cloud_lightning.webp);
+    opacity: 0.75;
     background-size: cover;
-    text-shadow: 1px 1px black;
+    text-shadow: 1px 1px white;
     margin-top: 0rem;
     padding: 2rem;
     text-align: left;
     font-size: larger;
-    color: white;
+    color: black;
     text-decoration: none;
     transition: color .5s ease, border-color 0.15s ease;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
@@ -177,10 +178,10 @@
 
 .h2:hover {
     color: black;
-    text-shadow: 1px 2px whitesmoke;
+    text-shadow: 1px 2px orange;
     border-color: hsl(184, 42%, 62%);
     text-decoration: dashed;
-    background-image: none;
+    background-image: url(/cloud_lightning.webp);
     opacity: 0.85;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
