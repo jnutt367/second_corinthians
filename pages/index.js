@@ -13,28 +13,28 @@ export default function Home() {
 
       
       <main className={styles.main}>
-      <div className={styles.flex}>
-          
-
-<a className={styles.code} href="https://the-holy-bible.vercel.app">HOME</a>
-           
-            <button className={styles.code}>
-            <a href="https://index-olive-two.vercel.app/">
-                INDEX
-                </a>
-            </button>
-            
-        </div>
+     
         <h1 className={styles.title}>
            <a href="https://nextjs.org">2 Corinthians</a>
         </h1>
+        <div className={styles.flex}>
+          
 
+          <a className={styles.code} href="https://the-holy-bible.vercel.app">HOME</a>
+                     
+                      <button className={styles.code}>
+                      <a href="https://index-olive-two.vercel.app/">
+                          INDEX
+                          </a>
+                      </button>
+                      
+                  </div>
         <p className={styles.description}>
         
         <code className={styles.publisher}>&darr; Scroll &darr;</code>
       </p>
 
-
+      
       <p className={styles.h2}>
       <span className={styles.span}> &darr; Romans 1:16 &rarr; </span>
         For I am not ashamed of the  gospel, because it is the power
