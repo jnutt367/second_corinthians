@@ -15,7 +15,7 @@ export default function Home() {
       <main className={styles.main}>
      
         <h1 className={styles.title}>
-           <a href="https://nextjs.org">2 Corinthians</a>
+           II Corinthians
         </h1>
         <div className={styles.hero}>
        <Image 
