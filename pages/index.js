@@ -26,11 +26,18 @@ export default function Home() {
                                 priority
                               />
                           
-       <a href="https://the-holy-bible.vercel.app/">
-            <button className={styles.button}>HOME</button>
+    <a href="https://the-holy-bible.vercel.app/">
+            <button className={styles.button}> HOME </button>
        </a>
-         <a href="https://the-holy-bible.vercel.app/">
-            <button className={styles.button}>BOOKMARK</button>
+
+         <a href="#PayPalButton">
+            <button className={styles.button}>CONTRIBUTE </button>
+        </a> 
+         <a href="https://first-corinthians.vercel.app/">
+            <button className={styles.button}>PREV </button>
+       </a>           
+        <a href="https://galatians.vercel.app/">
+            <button className={styles.button}>NEXT > </button>
        </a>           
 
         <div className={styles.grid}>
