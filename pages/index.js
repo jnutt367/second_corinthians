@@ -15,11 +15,11 @@ export default function Home() {
       <main className={styles.main}>
      
         <h1 className={styles.title}>
-          The Book Of
+          II CORINTHIANS
         </h1>
         <div className={styles.hero}>
        <Image 
-                                src="/2_Corinthians (2).jpg"
+                                src="/trust.webp"
                                 alt="Jesus teaching"
                                 height={900}
                                 width={2000}
