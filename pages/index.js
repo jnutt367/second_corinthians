@@ -19,27 +19,27 @@ export default function Home() {
         </h1>
         <div className={styles.hero}>
        <Image 
-                                src="/trust.webp"
+                                src="/illustration-ascension-day-jesus-christ-vector-illustration-biblical-series_29028-298.webp"
                                 alt="Jesus teaching"
                                 height={900}
                                 width={2000}
                                 priority
                               />
-                          
-    <a href="https://the-holy-bible.vercel.app/">
-            <button className={styles.button}> HOME </button>
-       </a>
-    <div className={styles.nav}>
-         <a href="#PayPalButton">
-            <button className={styles.button}>CONTRIBUTE </button>
-        </a> 
-         <a href="https://first-corinthians.vercel.app/">
-            <button className={styles.button}>PREV </button>
-       </a>           
-        <a href="https://galatians.vercel.app/">
-            <button className={styles.button}>NEXT > </button>
-       </a>           
-    </div>
+                <div className={styles.nav}>           
+                        <a href="https://the-holy-bible.vercel.app/">
+                                <button className={styles.button}> HOME </button>
+                           </a>
+
+                             <a href="#PayPalButton">
+                                <button className={styles.button}>CONTRIBUTE </button>
+                            </a> 
+                             <a href="https://first-corinthians.vercel.app/">
+                                <button className={styles.button}>PREV </button>
+                           </a>           
+                            <a href="https://galatians.vercel.app/">
+                                <button className={styles.button}>NEXT > </button>
+                           </a>           
+             </div>
         <div className={styles.grid}>
           <div className={styles.card}>
             <h2>Chapter 1 &darr;</h2>
