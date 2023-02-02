@@ -18,6 +18,7 @@ export default function Home() {
           II CORINTHIANS
         </h1>
         <div className={styles.hero}>
+            <div className={styles.image}>
        <Image 
                                 src="/illustration-ascension-day-jesus-christ-vector-illustration-biblical-series_29028-298.webp"
                                 alt="Jesus teaching"
@@ -25,8 +26,10 @@ export default function Home() {
                                 width={2000}
                                 priority
                               />
+            </div>
                         <div className={styles.nav}>           
       <a href="https://first-corinthians.vercel.app/">
+        
              <Image 
                                 src="/702-7024826_computer-back-icon-left-right-arrow-cartoon-arrow.png"
                                 alt="Jesus"
