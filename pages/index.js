@@ -48,7 +48,7 @@ export default function Home() {
         </a> 
          <a href="https://galatians.vercel.app/">
            <Image 
-                                src="/jean_victor_balin_arrow_orange_right.png"
+                                src="/arroworangeright.jpg"
                                 alt="Jesus"
                                  height={100}
                                 width={100}
