@@ -25,7 +25,7 @@ export default function Home() {
         </h1>
             <div className={styles.image}>
        <Image 
-                                src="/illustration-ascension-day-jesus-christ-vector-illustration-biblical-series_29028-298.webp"
+                                src="/left-arrow.jpg"
                                 alt="Jesus teaching"
                                 height={900}
                                 width={2000}
@@ -36,7 +36,7 @@ export default function Home() {
       <a href="https://first-corinthians.vercel.app/">
         
              <Image 
-                                src="/702-7024826_computer-back-icon-left-right-arrow-cartoon-arrow.png"
+                                src="/"
                                 alt="Jesus"
                                  height={100}
                                 width={100}
@@ -56,7 +56,7 @@ export default function Home() {
         </a> 
          <a href="https://galatians.vercel.app/">
            <Image 
-                                src="/arroworangeright.jpg"
+                                src="/right-arrow.jpg"
                                 alt="Jesus"
                                  height={100}
                                 width={100}
@@ -68,7 +68,7 @@ export default function Home() {
                </div>
         <div className={styles.grid}>
           <div className={styles.card}>
-            <h2>Chapter 1 &darr;</h2>
+          <h2  className={styles.chapter}>II Corinthians Chapter I</h2>
             <p>1 Paul, an apostle of Christ Jesus by the will of God, and Timothy our brother,
 
 To the church of God in Corinth, together with all his holy people throughout Achaia:
@@ -91,7 +91,7 @@ Paul’s Change of Plans
           </div>
 
           <div className={styles.card}>
-            <h2>Chapter 2 &darr;</h2>
+             <h2  className={styles.chapter}>II Corinthians Chapter II</h2>
             <p>2 1 So I made up my mind that I would not make another painful visit to you. 2 For if I grieve you, who is left to make me glad but you whom I have grieved? 3 I wrote as I did, so that when I came I would not be distressed by those who should have made me rejoice. I had confidence in all of you, that you would all share my joy. 4 For I wrote you out of great distress and anguish of heart and with many tears, not to grieve you but to let you know the depth of my love for you.
 
 Forgiveness for the Offender
@@ -105,7 +105,7 @@ Ministers of the New Covenant
 
           <div className={styles.card}
           >
-            <h2>Chapter 3 &darr;</h2>
+            <h2  className={styles.chapter}>II Corinthians Chapter III</h2>
             <p>3 Are we beginning to commend ourselves again? Or do we need, like some people, letters of recommendation to you or from you? 2 You yourselves are our letter, written on our hearts, known and read by everyone. 3 You show that you are a letter from Christ, the result of our ministry, written not with ink but with the Spirit of the living God, not on tablets of stone but on tablets of human hearts.
 
 4 Such confidence we have through Christ before God. 5 Not that we are competent in ourselves to claim anything for ourselves, but our competence comes from God. 6 He has made us competent as ministers of a new covenant—not of the letter but of the Spirit; for the letter kills, but the Spirit gives life.
@@ -118,7 +118,7 @@ The Greater Glory of the New Covenant
 
           <div className={styles.card}
           >
-            <h2>Chapter 4 &darr;</h2>
+            <h2  className={styles.chapter}>II Corinthians Chapter IV</h2>
             <p>
             Present Weakness and Resurrection Life
 4 Therefore, since through God’s mercy we have this ministry, we do not lose heart. 2 Rather, we have renounced secret and shameful ways; we do not use deception, nor do we distort the word of God. On the contrary, by setting forth the truth plainly we commend ourselves to everyone’s conscience in the sight of God. 3 And even if our gospel is veiled, it is veiled to those who are perishing. 4 The god of this age has blinded the minds of unbelievers, so that they cannot see the light of the gospel that displays the glory of Christ, who is the image of God. 5 For what we preach is not ourselves, but Jesus Christ as Lord, and ourselves as your servants for Jesus’ sake. 6 For God, who said, “Let light shine out of darkness,”[a] made his light shine in our hearts to give us the light of the knowledge of God’s glory displayed in the face of Christ.
@@ -132,7 +132,7 @@ The Greater Glory of the New Covenant
           </div>
           <div className={styles.card}
           >
-            <h2>Chapter 5 &darr;</h2>
+            <h2  className={styles.chapter}>II Corinthians Chapter V</h2>
             <p>
             Awaiting the New Body
 5 For we know that if the earthly tent we live in is destroyed, we have a building from God, an eternal house in heaven, not built by human hands. 2 Meanwhile we groan, longing to be clothed instead with our heavenly dwelling, 3 because when we are clothed, we will not be found naked. 4 For while we are in this tent, we groan and are burdened, because we do not wish to be unclothed but to be clothed instead with our heavenly dwelling, so that what is mortal may be swallowed up by life. 5 Now the one who has fashioned us for this very purpose is God, who has given us the Spirit as a deposit, guaranteeing what is to come.
@@ -150,7 +150,7 @@ The Ministry of Reconciliation
         </div>
         <div className={styles.card}
           >
-            <h2>Chapter 6 &darr;</h2>
+           <h2  className={styles.chapter}>II Corinthians Chapter VI</h2>
             <p>
 
             Awaiting the New Body
@@ -168,7 +168,7 @@ The Ministry of Reconciliation
         </div>
         <div className={styles.card}
           >
-            <h2>Chapter 7 &darr;</h2>
+            <h2  className={styles.chapter}>II Corinthians Chapter VII</h2>
             <p>
 
             Awaiting the New Body
@@ -186,7 +186,7 @@ The Ministry of Reconciliation
         </div>
         <div className={styles.card}
           >
-            <h2>Chapter 8 &darr;</h2>
+             <h2  className={styles.chapter}>II Corinthians Chapter VIII</h2>
             <p>
             The Collection for the Lord’s People
 8 And now, brothers and sisters, we want you to know about the grace that God has given the Macedonian churches. 2 In the midst of a very severe trial, their overflowing joy and their extreme poverty welled up in rich generosity. 3 For I testify that they gave as much as they were able, and even beyond their ability. Entirely on their own, 4 they urgently pleaded with us for the privilege of sharing in this service to the Lord’s people. 5 And they exceeded our expectations: They gave themselves first of all to the Lord, and then by the will of God also to us. 6 So we urged Titus, just as he had earlier made a beginning, to bring also to completion this act of grace on your part. 7 But since you excel in everything—in faith, in speech, in knowledge, in complete earnestness and in the love we have kindled in you[a]—see that you also excel in this grace of giving.
@@ -206,7 +206,7 @@ Titus Sent to Receive the Collection
         </div>
         <div className={styles.card}
           >
-            <h2>Chapter 9 &darr;</h2>
+            <h2  className={styles.chapter}>II Corinthians Chapter IX</h2>
             <p>
 
             The Collection for the Lord’s People
@@ -226,7 +226,7 @@ Titus Sent to Receive the Collection
         </div>
         <div className={styles.card}
           >
-            <h2>Chapter 10 &darr;</h2>
+             <h2  className={styles.chapter}>II Corinthians Chapter X</h2>
             <p>
 
             The Collection for the Lord’s People
@@ -247,27 +247,7 @@ Titus Sent to Receive the Collection
 
         <div className={styles.card}
           >
-            <h2>Chapter 11 &darr;</h2>
-            <p>
-            The Collection for the Lord’s People
-8 And now, brothers and sisters, we want you to know about the grace that God has given the Macedonian churches. 2 In the midst of a very severe trial, their overflowing joy and their extreme poverty welled up in rich generosity. 3 For I testify that they gave as much as they were able, and even beyond their ability. Entirely on their own, 4 they urgently pleaded with us for the privilege of sharing in this service to the Lord’s people. 5 And they exceeded our expectations: They gave themselves first of all to the Lord, and then by the will of God also to us. 6 So we urged Titus, just as he had earlier made a beginning, to bring also to completion this act of grace on your part. 7 But since you excel in everything—in faith, in speech, in knowledge, in complete earnestness and in the love we have kindled in you[a]—see that you also excel in this grace of giving.
-
-8 I am not commanding you, but I want to test the sincerity of your love by comparing it with the earnestness of others. 9 For you know the grace of our Lord Jesus Christ, that though he was rich, yet for your sake he became poor, so that you through his poverty might become rich.
-
-10 And here is my judgment about what is best for you in this matter. Last year you were the first not only to give but also to have the desire to do so. 11 Now finish the work, so that your eager willingness to do it may be matched by your completion of it, according to your means. 12 For if the willingness is there, the gift is acceptable according to what one has, not according to what one does not have.
-
-13 Our desire is not that others might be relieved while you are hard pressed, but that there might be equality. 14 At the present time your plenty will supply what they need, so that in turn their plenty will supply what you need. The goal is equality, 15 as it is written: “The one who gathered much did not have too much, and the one who gathered little did not have too little.”[b]
-
-Titus Sent to Receive the Collection
-16 Thanks be to God, who put into the heart of Titus the same concern I have for you. 17 For Titus not only welcomed our appeal, but he is coming to you with much enthusiasm and on his own initiative. 18 And we are sending along with him the brother who is praised by all the churches for his service to the gospel. 19 What is more, he was chosen by the churches to accompany us as we carry the offering, which we administer in order to honor the Lord himself and to show our eagerness to help. 20 We want to avoid any criticism of the way we administer this liberal gift. 21 For we are taking pains to do what is right, not only in the eyes of the Lord but also in the eyes of man.
-
-22 In addition, we are sending with them our brother who has often proved to us in many ways that he is zealous, and now even more so because of his great confidence in you. 23 As for Titus, he is my partner and co-worker among you; as for our brothers, they are representatives of the churches and an honor to Christ. 24 Therefore show these men the proof of your love and the reason for our pride in you, so that the churches can see it.
-              
-            </p>
-        </div>
-        <div className={styles.card}
-          >
-            <h2>Chapter 12 &darr;</h2>
+           <h2  className={styles.chapter}>II Corinthians Chapter XI</h2>
             <p>
             The Collection for the Lord’s People
 8 And now, brothers and sisters, we want you to know about the grace that God has given the Macedonian churches. 2 In the midst of a very severe trial, their overflowing joy and their extreme poverty welled up in rich generosity. 3 For I testify that they gave as much as they were able, and even beyond their ability. Entirely on their own, 4 they urgently pleaded with us for the privilege of sharing in this service to the Lord’s people. 5 And they exceeded our expectations: They gave themselves first of all to the Lord, and then by the will of God also to us. 6 So we urged Titus, just as he had earlier made a beginning, to bring also to completion this act of grace on your part. 7 But since you excel in everything—in faith, in speech, in knowledge, in complete earnestness and in the love we have kindled in you[a]—see that you also excel in this grace of giving.
@@ -287,7 +267,27 @@ Titus Sent to Receive the Collection
         </div>
         <div className={styles.card}
           >
-            <h2>Chapter 13 &darr;</h2>
+            <h2  className={styles.chapter}>II Corinthians Chapter XII</h2>
+            <p>
+            The Collection for the Lord’s People
+8 And now, brothers and sisters, we want you to know about the grace that God has given the Macedonian churches. 2 In the midst of a very severe trial, their overflowing joy and their extreme poverty welled up in rich generosity. 3 For I testify that they gave as much as they were able, and even beyond their ability. Entirely on their own, 4 they urgently pleaded with us for the privilege of sharing in this service to the Lord’s people. 5 And they exceeded our expectations: They gave themselves first of all to the Lord, and then by the will of God also to us. 6 So we urged Titus, just as he had earlier made a beginning, to bring also to completion this act of grace on your part. 7 But since you excel in everything—in faith, in speech, in knowledge, in complete earnestness and in the love we have kindled in you[a]—see that you also excel in this grace of giving.
+
+8 I am not commanding you, but I want to test the sincerity of your love by comparing it with the earnestness of others. 9 For you know the grace of our Lord Jesus Christ, that though he was rich, yet for your sake he became poor, so that you through his poverty might become rich.
+
+10 And here is my judgment about what is best for you in this matter. Last year you were the first not only to give but also to have the desire to do so. 11 Now finish the work, so that your eager willingness to do it may be matched by your completion of it, according to your means. 12 For if the willingness is there, the gift is acceptable according to what one has, not according to what one does not have.
+
+13 Our desire is not that others might be relieved while you are hard pressed, but that there might be equality. 14 At the present time your plenty will supply what they need, so that in turn their plenty will supply what you need. The goal is equality, 15 as it is written: “The one who gathered much did not have too much, and the one who gathered little did not have too little.”[b]
+
+Titus Sent to Receive the Collection
+16 Thanks be to God, who put into the heart of Titus the same concern I have for you. 17 For Titus not only welcomed our appeal, but he is coming to you with much enthusiasm and on his own initiative. 18 And we are sending along with him the brother who is praised by all the churches for his service to the gospel. 19 What is more, he was chosen by the churches to accompany us as we carry the offering, which we administer in order to honor the Lord himself and to show our eagerness to help. 20 We want to avoid any criticism of the way we administer this liberal gift. 21 For we are taking pains to do what is right, not only in the eyes of the Lord but also in the eyes of man.
+
+22 In addition, we are sending with them our brother who has often proved to us in many ways that he is zealous, and now even more so because of his great confidence in you. 23 As for Titus, he is my partner and co-worker among you; as for our brothers, they are representatives of the churches and an honor to Christ. 24 Therefore show these men the proof of your love and the reason for our pride in you, so that the churches can see it.
+              
+            </p>
+        </div>
+        <div className={styles.card}
+          >
+            <h2  className={styles.chapter}>II Corinthians Chapter XII</h2>
             <p>
 
             Final Warnings
