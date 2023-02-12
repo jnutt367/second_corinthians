@@ -25,7 +25,7 @@ export default function Home() {
         </h1>
             <div className={styles.image}>
        <Image 
-                                src="/left-arrow.jpg"
+                                src="/illustration-ascension-day-jesus-christ-vector-illustration-biblical-series_29028-298.webp"
                                 alt="Jesus teaching"
                                 height={900}
                                 width={2000}
@@ -36,7 +36,7 @@ export default function Home() {
       <a href="https://first-corinthians.vercel.app/">
         
              <Image 
-                                src="/"
+                                src="/left-arrow.jpg"
                                 alt="Jesus"
                                  height={100}
                                 width={100}
