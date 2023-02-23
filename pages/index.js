@@ -36,30 +36,30 @@ export default function Home() {
       <a href="https://first-corinthians.vercel.app/">
         
              <Image 
-                                src="/left-arrow.jpg"
+                                src="/chevron-left.svg"
                                 alt="Jesus"
-                                 height={100}
-                                width={100}
+                                 height={75}
+                                width={75}
                                 priority
                               />
        </a>
 
          <a href="#PayPalButton">
             <Image 
-                                src="/SCROLL-DOWN-button-kopie1.gif"
+                                src="/chevron-down.svg"
                                 alt="Jesus"
-                                 height={100}
-                                width={100}
+                                 height={75}
+                                width={75}
                                 priority
                               />
            
         </a> 
          <a href="https://galatians.vercel.app/">
            <Image 
-                                src="/right-arrow.jpg"
+                                src="/chevron-right.svg"
                                 alt="Jesus"
-                                 height={100}
-                                width={100}
+                                 height={75}
+                                width={75}
                                 priority
                               />
            
