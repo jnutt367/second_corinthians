@@ -71,6 +71,8 @@
 
 
 .image {
+    background-image: url(/orangebg.jfif);
+    background-size: cover;
     margin-top: -50px;
     padding-left: 100px;
     padding-right: 100px;
