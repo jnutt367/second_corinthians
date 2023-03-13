@@ -66,7 +66,7 @@ export default function Home() {
         </a> 
          
                </div>
-      <p className={styles.fund}> (II Corinthians 12:9) "But He said to me, “My grace is sufficient for you, for my power is made perfect in weakness.” Therefore I will boast all the more gladly about my weaknesses, so that Christ’s power may rest on me."</p>
+      <p className={styles.fund}> (II Corinthians 12:9) "But He said to me, “My grace is sufficient for you, for my power is made perfect in weakness."</p>
         <div className={styles.grid}>
           <div className={styles.card}>
           <h2  className={styles.chapter}>II Corinthians Chapter I</h2>
