@@ -25,7 +25,7 @@ export default function Home() {
         </h1>
             <div className={styles.image}>
        <Image 
-                                src="/illustration-ascension-day-jesus-christ-vector-illustration-biblical-series_29028-298.webp"
+                                src="/spiritheart.gif"
                                 alt="Jesus teaching"
                                 height={900}
                                 width={2000}
@@ -38,35 +38,31 @@ export default function Home() {
              <Image 
                                 src="/chevron-left.svg"
                                 alt="Jesus"
-                                 height={25}
-                                width={25}
+                                 height={75}
+                                width={75}
                                 priority
                               />
        </a>
 
-         <a href="#PayPalButton">
-            <Image 
-                                src="/chevron-down.svg"
-                                alt="Jesus"
-                                 height={25}
-                                width={25}
-                                priority
-                              />
-           
-        </a> 
+         <a href="https://gofund.me/a2b590af">
+             <p className={styles.donate}>
+               Support <br />
+                  Creator
+               </p>
+       </a>
          <a href="https://galatians.vercel.app/">
            <Image 
                                 src="/chevron-right.svg"
                                 alt="Jesus"
-                                 height={25}
-                                width={25}
+                                 height={75}
+                                width={75}
                                 priority
                               />
            
         </a> 
          
                </div>
-      <p className={styles.fund}> (II Corinthians 12:9) "But He said to me, “My grace is sufficient for you, for my power is made perfect in weakness."</p>
+      <p className={styles.fund}> (II Corinthians 3:3)  "You show that you are a letter from Christ, the result of our ministry, written not with ink but with the Spirit of the living God, not on tablets of stone but on tablets of human hearts."</p>
         <div className={styles.grid}>
           <div className={styles.card}>
           <h2  className={styles.chapter}>II Corinthians Chapter I</h2>
