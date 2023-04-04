@@ -25,7 +25,7 @@ export default function Home() {
         </h1>
             <div className={styles.image}>
        <Image 
-                                src="/spiritual-spiritual-love.gif"
+                                src="/8036d28f9978251bfba406cec5e8f18f.gif"
                                 alt="Jesus teaching"
                                 height={900}
                                 width={2000}
