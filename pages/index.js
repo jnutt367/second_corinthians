@@ -304,6 +304,16 @@ Final Greetings
        
 
         </div>
+ <div className={styles.image}>
+       <Image 
+                                src="/workshop.png"
+                                alt="Jesus teaching"
+                                height={900}
+                                width={2000}
+                                priority
+                              />
+            </div>
+
 </div>
         <p className={styles.description}> 
         <code className={styles.publisher}>
