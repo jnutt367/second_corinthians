@@ -271,7 +271,7 @@
 }
 
 .nav {
-    background-color:green;
+    background-color:#006600;
     color: white;
     opacity: 1;
     padding: 5px;
@@ -294,7 +294,7 @@
 }
 
 .grid {
-    background-color: green;
+    background-color: #006600;
     color: white;
     display: flex;
     align-items: center;
@@ -354,7 +354,7 @@
     box-shadow: lightblue 0px 5px 15px;
 }
 .chapter {
-    background-color: green;
+    background-color: #006600;
     color: white;
     opacity: 0.8;
     opacity: 1;
@@ -376,7 +376,7 @@
     display: inline;
     color: black;
     opacity: 1;
-    border: 6px solid yellow;
+    border: 6px solid green;
     background-image: url(/paper.jpeg);
     background-repeat: no-repeat;
     background-size: cover;
