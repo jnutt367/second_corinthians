@@ -25,15 +25,17 @@ export default function Home() {
         </h1>
             <div className={styles.image}>
        <Image 
-                                src="/8036d28f9978251bfba406cec5e8f18f.gif"
+                                src="/risen_40"
                                 alt="Jesus teaching"
                                 height={900}
                                 width={2000}
                                 priority
                               />
-                                <iframe width="100%" height="175" src="https://www.youtube.com/embed/zr54VtQNbgg?autoplay=1&mute=1" title="YouTube video player" frameborder="5" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>   
+                               
             </div>
-                        <div className={styles.nav}>           
+
+   <p className={styles.parables}> This book tells of how thankful Paul was to hear from Titus, that the Corinthians were sorry for the way they had acted & were now
+                                  trying to live the way God commands, in love</p>
       <a href="https://first-corinthians.vercel.app/">
         
              <Image 
@@ -63,7 +65,10 @@ export default function Home() {
         </a> 
          
                </div>
-      <p className={styles.fund}> (II Corinthians 3:3)  "You show that you are a letter from Christ, the result of our ministry, written not with ink but with the Spirit of the living God, not on tablets of stone but on tablets of human hearts."</p>
+        <div className={styles.iframe}>
+ <iframe width="100%" height="315" src="https://www.youtube.com/embed/3lfPK2vfC54" title="YouTube video player" frameborder="10" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe> 
+          </div>                         
+   
         <div className={styles.grid}>
           <div className={styles.card}>
           <h2  className={styles.chapter}>II Corinthians Chapter I</h2>
