@@ -25,7 +25,7 @@ export default function Home() {
         </h1>
             <div className={styles.image}>
        <Image 
-                                src="/risen_40"
+                                src="/risen_40.png"
                                 alt="Jesus teaching"
                                 height={900}
                                 width={2000}
@@ -36,7 +36,9 @@ export default function Home() {
 
    <p className={styles.parables}> This book tells of how thankful Paul was to hear from Titus, that the Corinthians were sorry for the way they had acted & were now
                                   trying to live the way God commands, in love</p>
-      <a href="https://first-corinthians.vercel.app/">
+     
+                 <div className={styles.nav}>                   
+                                    <a href="https://first-corinthians.vercel.app/">
         
              <Image 
                                 src="/chevron-left.svg"
