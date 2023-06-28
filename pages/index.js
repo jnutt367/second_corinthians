@@ -34,8 +34,8 @@ export default function Home() {
                                
             </div>
 
-   <p className={styles.parables}> This book tells of how thankful Paul was to hear from Titus, that the Corinthians were sorry for the way they had acted & were now
-                                  trying to live the way God commands, in love</p>
+   <p className={styles.parables}> Paul tells of how thankful he was to hear, the Corinthians were sorry for the way they had acted & were now
+                                  going to live the way God wanted, in love</p>
      
                  <div className={styles.nav}>                   
                                     <a href="https://first-corinthians.vercel.app/">
@@ -49,12 +49,17 @@ export default function Home() {
                               />
        </a>
 
-         <a href="https://gofund.me/a2b590af">
-             <p className={styles.donate}>
-               Support <br />
-                  Creator
-               </p>
-       </a>
+         <a href="https://www.youtube.com/channel/UCC4jNk2Tms-KNO1h1YOjfRw">
+ <Image 
+                                src="/youtube-logo-png-hd-21.png"
+                                alt="Youtube"
+                                 height={75}
+                                width={75}
+                                priority
+                              />
+       </a>                                  
+           
+     
          <a href="https://galatians.vercel.app/">
            <Image 
                                 src="/chevron-right.svg"
