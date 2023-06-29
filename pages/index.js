@@ -34,7 +34,7 @@ export default function Home() {
                                
             </div>
 
-   <p className={styles.parables}> Paul tells of how thankful he was to hear, the Corinthians were sorry for the way they had acted & were now
+   <p className={styles.parables}> Paul writes how thankful he was that the Corinthians were repentant & were now
                                   going to live the way God wanted, in love</p>
      
                  <div className={styles.nav}>                   
