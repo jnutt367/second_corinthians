@@ -41,20 +41,20 @@ export default function Home() {
                                     <a href="https://first-corinthians.vercel.app/">
         
              <Image 
-                                src="/chevron-left.svg"
-                                alt="Jesus"
+                                src="/previous.webp"
+                                alt="prev"
                                  height={75}
-                                width={75}
+                                width={90}
                                 priority
                               />
        </a>
 
-         <a href="https://www.youtube.com/channel/UCC4jNk2Tms-KNO1h1YOjfRw">
+         <a href="https://the-word-of-god.vercel.app/">
  <Image 
-                                src="/youtube-logo-png-hd-21.png"
-                                alt="Youtube"
+                                src="/upward_pointing.webp"
+                                alt="Home"
                                  height={75}
-                                width={75}
+                                width={90}
                                 priority
                               />
        </a>                                  
@@ -62,10 +62,10 @@ export default function Home() {
      
          <a href="https://galatians.vercel.app/">
            <Image 
-                                src="/chevron-right.svg"
+                                src="/next.webp"
                                 alt="Jesus"
                                  height={75}
-                                width={75}
+                                width={90}
                                 priority
                               />
            
@@ -73,7 +73,7 @@ export default function Home() {
          
                </div>
         <div className={styles.iframe}>
- <iframe width="100%" height="315" src="https://www.youtube.com/embed/3lfPK2vfC54" title="YouTube video player" frameborder="10" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe> 
+ <iframe width="100%" height="315" src="https://www.youtube.com/embed/3lfPK2vfC54?autoplay=1&mute=1" title="YouTube video player" frameborder="10" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe> 
           </div>                         
    
         <div className={styles.grid}>
