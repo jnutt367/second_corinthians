@@ -336,7 +336,7 @@ Final Greetings
           <div className={styles.image}>
                            <Image 
                                                     src="/glory_of_god.png'
-                                                    alt="hero image for 2ND Thessalonians"
+                                                    alt="hero image for second Thessalonians"
                                                     height={900}
                                                     width={2000}
                                                     priority
