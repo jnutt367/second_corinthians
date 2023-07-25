@@ -346,7 +346,7 @@ Final Greetings
                         </div>
     <p className={styles.parables}>
 
-          then the lawless one will be revealed, whom the Lord Jesus will overthrow with the breath of his mouth and destroy by the splendor of his coming. 
+          The lawless one will be revealed, whom the Lord Jesus will overthrow with the breath of his mouth & destroy by the splendor of his coming. 
 </p>                                                      
                   <div className={styles.nav2}>           
       <a href="https://romans-five.vercel.app/">
