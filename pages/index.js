@@ -335,7 +335,7 @@ Final Greetings
         </h1>
           <div className={styles.image}>
                            <Image 
-                                                    src="/glory_of_god.png'
+                                                    src="/glory_of_god.png"
                                                     alt="hero image for second Thessalonians"
                                                     height={900}
                                                     width={2000}
@@ -346,7 +346,8 @@ Final Greetings
                         </div>
     <p className={styles.parables}>
 
-           "This will happen when the Lord Jesus is revealed from heaven in blazing fire with his powerful angels. He will punish those who do not know God & do not obey the gospel of our Lord Jesus.  
+           This will happen when the Lord Jesus is revealed from heaven in blazing fire with his powerful angels. 
+          He will punish those who do not know God & don't obey the gospel of our Lord Jesus.  
 </p>                                                      
                   <div className={styles.nav2}>           
       <a href="https://romans-five.vercel.app/">
