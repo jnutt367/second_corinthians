@@ -323,7 +323,7 @@ Final Greetings
   
   </main>
 
-<main className={styles.main}>
+<main id="second_thessalonians" className={styles.main}>
        
         <div id="first_thessalonians" className={styles.hero}>
                 <h2 className={styles.holy}>THE WORD</h2>
