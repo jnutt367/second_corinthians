@@ -346,8 +346,7 @@ Final Greetings
                         </div>
     <p className={styles.parables}>
 
-           This will happen when the Lord Jesus is revealed from heaven in blazing fire with his powerful angels. 
-          He will punish those who do not know God & don't obey the gospel of our Lord Jesus.  
+          then the lawless one will be revealed, whom the Lord Jesus will overthrow with the breath of his mouth and destroy by the splendor of his coming. 
 </p>                                                      
                   <div className={styles.nav2}>           
       <a href="https://romans-five.vercel.app/">
