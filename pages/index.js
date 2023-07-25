@@ -335,8 +335,8 @@ Final Greetings
         </h1>
           <div className={styles.image}>
                            <Image 
-                                                    src="/thess_hero.png"
-                                                    alt="hero image for Thessalonians"
+                                                    src="/glory_of_god.png'
+                                                    alt="hero image for 2ND Thessalonians"
                                                     height={900}
                                                     width={2000}
                                                     priority
@@ -346,7 +346,7 @@ Final Greetings
                         </div>
     <p className={styles.parables}>
 
-            Paul explains, the TIME of the 2nd coming of Jesus is unkown, & praises Thessalonica's christians for not giving up their faith, in spite of "Extreme sufferring"  
+           "This will happen when the Lord Jesus is revealed from heaven in blazing fire with his powerful angels. He will punish those who do not know God & do not obey the gospel of our Lord Jesus.  
 </p>                                                      
                   <div className={styles.nav2}>           
       <a href="https://romans-five.vercel.app/">
