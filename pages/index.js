@@ -457,18 +457,18 @@ Final Greetings
             <p>
             I have appended 1 Thessalonians to the end of 1 corinthians...
             I will be appending 2 Thessalonians to the end of 2 corinthians...
-            I will be appending 1 Timothy ... TBA </br>
-            I will be appending 2 Timothy ..TBA</br>
-              I will be appending Titus .. TBA</br>
-                I will be appending Philemon ... TBA</br>
-            I will be appending Hebrews ...TBA</br>
-            I will be appending James ...TBA</br>
-            I will be appending Peter ...TBA</br>
-              I will be appending 2 Peter ...TBA</br>
-                I will be appending 1 John ...TBA</br>
-                  I will be appending 2 John ...TBA</br>
-                    I will be appending 3 John ...TBA</br>
-                      I will be appending Jude ...TBA</br>
+            I will be appending 1 Timothy ... TBA </p>
+            I will be appending 2 Timothy ..TBA</p>
+              I will be appending Titus .. TBA</p>
+                I will be appending Philemon ... TBA</p>
+            I will be appending Hebrews ...TBA</p>
+            I will be appending James ...TBA</p>
+            I will be appending Peter ...TBA</p>
+              I will be appending 2 Peter ...TBA</p>
+                I will be appending 1 John ...TBA</p>
+                  I will be appending 2 John ...TBA</p>
+                    I will be appending 3 John ...TBA</p>
+                      I will be appending Jude ...TBA</p>
                         More to come on the layout...!
      </p>
           </div>
