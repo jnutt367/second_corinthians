@@ -454,22 +454,22 @@ Final Greetings
           <div className={styles.card2}
           >
             <h2 className={styles.chapter2}>!Explaination of Layout!</h2>
-            <p>
-            I have appended 1 Thessalonians to the end of 1 corinthians...
-            I will be appending 2 Thessalonians to the end of 2 corinthians...
-            I will be appending 1 Timothy ... TBA </p>
-            I will be appending 2 Timothy ..TBA</p>
-              I will be appending Titus .. TBA</p>
-                I will be appending Philemon ... TBA</p>
-            I will be appending Hebrews ...TBA</p>
-            I will be appending James ...TBA</p>
-            I will be appending Peter ...TBA</p>
-              I will be appending 2 Peter ...TBA</p>
-                I will be appending 1 John ...TBA</p>
-                  I will be appending 2 John ...TBA</p>
-                    I will be appending 3 John ...TBA</p>
-                      I will be appending Jude ...TBA</p>
-                        More to come on the layout...!
+          
+                          <p>I have appended 1 Thessalonians to the end of 1 corinthians...</p>
+                         <p> I will be appending 2 Thessalonians to the end of 2 corinthians...</p>
+                         <p> I will be appending 1 Timothy ... TBA </p>
+            <p>I will be appending 2 Timothy ..TBA</p>
+             <p> I will be appending Titus .. TBA</p>
+                <p>I will be appending Philemon ... TBA</p>
+            <p>I will be appending Hebrews ...TBA</p>
+            <p>I will be appending James ...TBA</p>
+            <p>I will be appending Peter ...TBA</p>
+              <p>I will be appending 2 Peter ...TBA</p>
+               <p> I will be appending 1 John ...TBA</p>
+                 <p> I will be appending 2 John ...TBA</p>
+                   <p> I will be appending 3 John ...TBA</p>
+                     <p> I will be appending Jude ...TBA</p>
+                        <p>More to come on the layout...!
      </p>
           </div>
 
