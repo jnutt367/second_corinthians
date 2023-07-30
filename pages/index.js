@@ -349,7 +349,7 @@ Final Greetings
           The lawless one will be revealed, whom the Lord Jesus will overthrow with the breath of his mouth & destroy by the splendor of his coming. 
 </p>                                                      
                   <div className={styles.nav2}>           
-      <a href="https://romans-five.vercel.app/">
+      <a href="https://first-corinthians.vercel.app/#first_thessalonians">
              <Image 
                                 src="/previous.webp"
                                 alt="prev"
@@ -369,7 +369,7 @@ Final Greetings
                                 priority
                               /> 
        </a>
-         <a href="https://second-corinthians.vercel.app/">
+         <a href="https://matthew-coral.vercel.app/#first_timothy">
            <Image 
                                 src="/next.webp"
                                 alt="next"
