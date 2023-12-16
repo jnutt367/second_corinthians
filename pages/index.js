@@ -358,7 +358,7 @@ Final Greetings
         
       <a href="https://cash.app/$JNutt367">
 
-                                   <p>Give<p/>
+                                   <p>Give</p>
                                   
                                   <Image className={styles.arrow}
                                 src="/donations_please.webp"
@@ -370,7 +370,7 @@ Final Greetings
        </a>
          <a href="https://matthew-coral.vercel.app/#first_timothy">
 
-                                   <p>Next<p/>
+                                   <p>Next</p>
                                   
                                   <Image 
                                 src="/next.webp"
