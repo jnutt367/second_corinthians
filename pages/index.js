@@ -32,7 +32,7 @@ export default function Home() {
                                
             </div>
 
-   <p className={styles.parables}>"For I testify that they gave as much as they were able, and even beyond their ability."</p>
+   <p className={styles.parables}>" I am not commanding you, but I want to test the sincerity of your love by comparing it with the earnestness of others."</p>
      
                  <div className={styles.nav}>                   
                                     <a href="https://first-corinthians.vercel.app/">
