@@ -15,7 +15,12 @@ export default function Home() {
         />      
 
 
-<link href="https://fonts.googleapis.com/css2?family=Rubik+Doodle+Shadow&display=swap" rel="stylesheet">            
+<link href="https://fonts.googleapis.com/css2?family=Rubik+Doodle+Shadow&display=swap" 
+            rel="stylesheet"  
+              />      
+
+
+            
       </Head>
 
       
