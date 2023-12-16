@@ -345,7 +345,7 @@ Final Greetings
 </p>                                                      
                   <div className={styles.nav2}>           
       <a href="https://first-corinthians.vercel.app/#first_thessalonians">
-  <p>Prev<p/>
+  <p>Prev</p>
              <Image 
                                 src="/previous.webp"
                                 alt="prev"
